@@ -11,6 +11,8 @@
 
 
 <hr>
+🌎 https://odeardika.vercel.app/
+<hr>
 
 
 ## 🛠️ My Favorite Tools
@@ -30,6 +32,6 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odeardika)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odeardika)
 
 
