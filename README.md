@@ -12,6 +12,7 @@
 
 <hr>
 🌎 https://odeardika.vercel.app/
+🌎 https://odeardika-website.vercel.app/
 <hr>
 
 
