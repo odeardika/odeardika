@@ -11,8 +11,7 @@
 
 
 <hr>
-🌎 https://odeardika.vercel.app/
-🌎 https://odeardika-website.vercel.app/
+🌎 https://www.odeardika.my.id/
 <hr>
 
 
@@ -34,6 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeardika&layout=donut-vertical&theme=tokyonight)
 
-![OdeArdika's GitHub stats](https://github-readme-stats.vercel.app/api?username=odeardika\&rank_icon=github&theme=tokyonight)
+![OdeArdika's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=odeardika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
